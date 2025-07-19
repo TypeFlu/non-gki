@@ -6,7 +6,7 @@
       "name": "kernelsu-next",
       "defconfig": "gauguin_defconfig",
       "extraConfig": "",
-      "repo": "https://github.com/kernel-build-from-rainyland/kernel_xiaomi_gauguin",
+      "repo": "https://github.com/Typeflu/kernel_xiaomi_gauguin",
       "branch": "lineage-22.2"
     },
     "use_dtb": false,
